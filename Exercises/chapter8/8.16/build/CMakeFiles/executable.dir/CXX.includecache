@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chapter8/8.16/classes.cpp
+classes.h
+/home/chapter8/8.16/classes.h
+iostream
+-
+
+/home/chapter8/8.16/classes.h
+chrono
+-
+
+/home/chapter8/8.16/main.cc
+iostream
+-
+classes.h
+/home/chapter8/8.16/classes.h
+chrono
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chapter6/quiz/add.cc
+
+/home/chapter6/quiz/header.h
+
+/home/chapter6/quiz/main.cc
+iostream
+-
+header.h
+/home/chapter6/quiz/header.h
+string
+-
+

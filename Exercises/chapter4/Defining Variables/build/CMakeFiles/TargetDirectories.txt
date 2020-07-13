@@ -1,0 +1,3 @@
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Defining Variables/build/CMakeFiles/rebuild_cache.dir
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Defining Variables/build/CMakeFiles/variables.dir
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Defining Variables/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/projectex.dir/main.cc.o CMakeFiles/projectex.dir/add.cc.o  -o projectex 

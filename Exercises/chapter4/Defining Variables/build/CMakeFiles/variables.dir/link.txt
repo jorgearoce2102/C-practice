@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/variables.dir/main.cc.o CMakeFiles/variables.dir/add.cc.o  -o variables 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Square/getUserInfo.cc
+iostream
+-
+
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Square/getUserInfo.h
+
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Square/main.cc
+iostream
+-
+getUserInfo.h
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Square/getUserInfo.h
+bitset
+-
+

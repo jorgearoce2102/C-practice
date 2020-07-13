@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/44a.dir/main.cc.o CMakeFiles/44a.dir/getUserInfo.cc.o  -o 44a 

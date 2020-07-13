@@ -1,0 +1,3 @@
+/home/chapter6/ex61/build/CMakeFiles/rebuild_cache.dir
+/home/chapter6/ex61/build/CMakeFiles/executable.dir
+/home/chapter6/ex61/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jorge/Documents/2-Programming/C++ course/Exercises/chapter9/ex 9.2-quiz/add.cc
+headers.h
+/home/jorge/Documents/2-Programming/C++ course/Exercises/chapter9/ex 9.2-quiz/headers.h
+iostream
+-
+
+/home/jorge/Documents/2-Programming/C++ course/Exercises/chapter9/ex 9.2-quiz/headers.h
+

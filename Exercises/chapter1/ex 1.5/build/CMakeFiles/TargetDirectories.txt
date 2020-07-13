@@ -1,0 +1,3 @@
+/home/jorge/Documents/2-Programming/C++ course/Exercises/chapter1/instalation/build/CMakeFiles/rebuild_cache.dir
+/home/jorge/Documents/2-Programming/C++ course/Exercises/chapter1/instalation/build/CMakeFiles/ex.dir
+/home/jorge/Documents/2-Programming/C++ course/Exercises/chapter1/instalation/build/CMakeFiles/edit_cache.dir

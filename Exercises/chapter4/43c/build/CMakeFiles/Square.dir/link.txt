@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Square.dir/main.cc.o CMakeFiles/Square.dir/getUserInfo.cc.o  -o Square 

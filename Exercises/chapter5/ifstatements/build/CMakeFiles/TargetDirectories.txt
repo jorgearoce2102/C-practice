@@ -1,0 +1,3 @@
+/home/jorge/chapter5/ifstatements/build/CMakeFiles/rebuild_cache.dir
+/home/jorge/chapter5/ifstatements/build/CMakeFiles/projectex.dir
+/home/jorge/chapter5/ifstatements/build/CMakeFiles/edit_cache.dir

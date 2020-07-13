@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Header Guards/geometry.h
+square.h
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Header Guards/square.h
+
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Header Guards/main.cc
+square.h
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Header Guards/square.h
+geometry.h
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Header Guards/geometry.h
+iostream
+-
+math.h
+-
+
+/home/jorge/Documents/2-Programming/C++ course/Exercises/Header Guards/square.h
+

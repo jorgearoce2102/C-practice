@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jorge/Documents/2-Programming/C++ course/Exercises/cmake_test/main.cc
+std_lib_facilities.h
+/home/jorge/Documents/2-Programming/C++ course/Exercises/cmake_test/std_lib_facilities.h
+

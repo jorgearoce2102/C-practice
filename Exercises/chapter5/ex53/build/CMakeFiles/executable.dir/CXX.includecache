@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jorge/chapter5/ex53/include.h
+
+/home/jorge/chapter5/ex53/main.cc
+iostream
+-
+include.h
+/home/jorge/chapter5/ex53/include.h
+
